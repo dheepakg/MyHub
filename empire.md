@@ -1,5 +1,13 @@
 # Empire
 
+---
+
+## Author : Devi Yesshodharan
+
+## Pages: 306
+
+## Genre: Historic fiction
+
 Some of the quotes
 
 > Our own faults are entirely invisible to us. It's a cruel joke of the gods, so that we can never surpass out weeknesses - Artemis
