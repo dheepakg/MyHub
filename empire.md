@@ -1,10 +1,8 @@
 # Empire
 
-| Author |Language|Pages| Genre |
-|--------|-------|-----|------|
-| Devi Yesshodharan| English | 306 | Historic Fiction | 
-
-
+| Author           | Language | Pages | Genre            |
+| ---------------- | -------- | ----- | ---------------- |
+| Devi Yeshodharan | English  | 306   | Historic Fiction |
 
 Some of the quotes
 
