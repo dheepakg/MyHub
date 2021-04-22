@@ -1,0 +1,11 @@
+# Seen and Unseen
+
+| Episode No | Guest Speaker             | Books                   |
+| ---------- | ------------------------- | ----------------------- |
+| 96         | Matt Ridley               | Evolution of Everything |
+| 204        | Krish Ashok               | The Masala Lab          |
+| 154        | Vijay Khelkar & Ajay Shah | In Service to Republic  |
+|            |                           |                         |
+|            |                           |                         |
+
+Back to [[podcast]]
