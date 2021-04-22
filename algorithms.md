@@ -1,0 +1,7 @@
+# Algorithms
+
+![Algorithms](https://github.com/dheepakg/MyBrain/blob/master/assets/img/ML-Algos.jpeg?raw=true)
+
+Thanks to [Greg Coquillo](https://www.linkedin.com/posts/greg-coquillo_datascience-machinelearning-artificialintelligence-activity-6790291979906379776-jhzn) (linkedin)
+
+Back to [[machine-learning]]
