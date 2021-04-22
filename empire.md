@@ -2,11 +2,12 @@
 
 ---
 
-## Author : Devi Yesshodharan
+Author : Devi Yesshodharan
+Pages: 306
+Genre: Historic fiction
+Language: English
 
-## Pages: 306
-
-## Genre: Historic fiction
+---
 
 Some of the quotes
 
