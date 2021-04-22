@@ -1,7 +1,8 @@
 # index
 
-- Notes from the [[podcast]] shows
 - [[Career Path]]
 - [[Finance]]
+- [[Hobby]]
+- [[Wellbeing]]
 
 - Some [[open issues]]
