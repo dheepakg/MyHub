@@ -1,6 +1,7 @@
 # index
 
-- Take notes from the [[podcast]] shows
-- [[inbox]]
-- [[todo]]
-- [[how to work]]
+- Notes from the [[podcast]] shows
+- [[Career Path]]
+- [[Finance]]
+
+- Some [[open issues]]

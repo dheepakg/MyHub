@@ -1,4 +1,4 @@
-# how to work
+# How to Work
 
 - `cmd+click` will create 2 files. With hyphenated and with spaces.
   - Remove the file with `Hyphen`
@@ -6,4 +6,4 @@
   - This will solve the `markdown links` graph.
 - The `foam graph` is still fucked up
 
-Back to [[index]]
+Back to [[meta]]
