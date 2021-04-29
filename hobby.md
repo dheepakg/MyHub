@@ -4,11 +4,11 @@
 - Story telling with data using
 
   - Data [[visualization]]
-  -
 
 - [[tv]] shows
 - [[movies]]
 - [[reading]]
+- [[youtube]]
 
 Back to [[index]]
 
