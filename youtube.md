@@ -5,6 +5,23 @@
 - By Sanjoy Bhattacharyya
 - 1hr 51mins
 
+### Notes
+
+1. Save, defer gratification
+2. Understand role of risk and luck.
+   - Humble when things go right
+   - Compassionate when it go wrong
+3. Think long term
+4. Choose sleeping well over eating well
+5. Benefit of being rich: Freedom to live how we want
+6. Survival is key: Margin of Safety
+7. Surprises are inevitable. Mentally, come in terms to face surprises
+8. Understand who you are, only do what makes sense to you
+9. Try asking right questions. There are no exact or right answers
+10. Character counts. Strive to be decent d modest.
+
+
+
 ## Next one
 
 Back to [[hobby]]

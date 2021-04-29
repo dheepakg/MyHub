@@ -2,18 +2,19 @@
 
 ## Nonfictional Books
 
-| #   | Book Name                    | Author                          | Nonfiction? | Subject Area                 | pBook/eBook | Pages | Notes                                                       |
-| --- | ---------------------------- | ------------------------------- | ----------- | ---------------------------- | ----------- | ----- | ----------------------------------------------------------- |
-| 1   | The Psychology of Money      | Morgan Housel                   | Nonfiction  | Psychology                   | pBook       | 240   | [Blog post](https://dheepak.netlify.app/notes/psych-money/) |
-| 2   | The Atomic Habits            | James Clear                     | Nonfiction  | Habit building               | pBook       | 288   |
-| 3   | Masala lab                   | Krish Ashok                     | Nonfiction  | Cookery                      | pBook       | 237   |
-| 4   | Bulls, bears and other beast | Santosh Nair                    | Nonfiction  | Scams in Indian equity space | pBook       | 358   |
-| 5   | Ikigai                       | Hector Garcia, Fransec miralles | Nonfiction  | Cultural, Sprituality        | pBook       | 185   |
-| 6   | Why we Sleep                 | Mathew Walker                   | Nonfiction  | Health, Sleep                | pBook       | 340   |
-| 7   | Fault lines                  | Raghuram Rajan                  | Nonfiction  | Economics                    | pBook       | 321   |
-| 8   | The Great Mental Models      | Shane Parrish                   | Nonfiction  | Psychology                   | eBook       | 197   |
-| 9   | Thinking, Fast and Slow      | Daniel Kahneman                 | Nonfiction  | Psychology                   | Yet to buy  | 499   |
-| 10  | The Long Tail                | Chris Anderson                  | Nonfiction  | Economics                    | Yet to buy  | 288   |
+| #   | Book Name                    | Author                          | Nonfiction? | Subject Area                 | pBook/eBook | Pages | Notes                                                       | Suggested by            |
+| --- | ---------------------------- | ------------------------------- | ----------- | ---------------------------- | ----------- | ----- | ----------------------------------------------------------- | ----------------------- |
+| 1   | The Psychology of Money      | Morgan Housel                   | Nonfiction  | Psychology                   | pBook       | 240   | [Blog post](https://dheepak.netlify.app/notes/psych-money/) | Fintwit Community       |
+| 2   | The Atomic Habits            | James Clear                     | Nonfiction  | Habit building               | pBook       | 288   |                                                             | No idea                 |
+| 3   | Masala lab                   | Krish Ashok                     | Nonfiction  | Cookery                      | pBook       | 237   |                                                             | Seen and Unseen podcast |
+| 4   | Bulls, bears and other beast | Santosh Nair                    | Nonfiction  | Scams in Indian equity space | pBook       | 358   |                                                             | Friends                 |
+| 5   | Ikigai                       | Hector Garcia, Fransec miralles | Nonfiction  | Cultural, Sprituality        | pBook       | 185   |                                                             | No idea                 |
+| 6   | Why we Sleep                 | Mathew Walker                   | Nonfiction  | Health, Sleep                | pBook       | 340   |                                                             | Ted talk                |
+| 7   | Fault lines                  | Raghuram Rajan                  | Nonfiction  | Economics                    | pBook       | 321   |                                                             | Fintwit Community       |
+| 8   | The Great Mental Models      | Shane Parrish                   | Nonfiction  | Psychology                   | eBook       | 197   |                                                             | The knowledge project   |
+| 9   | Thinking, Fast and Slow      | Daniel Kahneman                 | Nonfiction  | Psychology                   | Yet to buy  | 499   |                                                             | Psychology Videos       |
+| 10  | The Long Tail                | Chris Anderson                  | Nonfiction  | Economics                    | Yet to buy  | 288   |                                                             | Guy Spier's book        |
+| 11  | The Joys of Compounding      | Gautam Baid                     | Nonfiction  | Economics                    | Yet to buy  | 432   |                                                             | Fintwit Community       |
 
 Quotes from [[fictional]] books
 
