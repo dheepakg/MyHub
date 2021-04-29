@@ -1,6 +1,7 @@
 # Reading
 
 - [ ] [[empire]] by Devi Yashodaran
+- Good article to [[reread]]
 
 Back to [[hobby]]
 
