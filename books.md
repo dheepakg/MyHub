@@ -15,7 +15,7 @@
 | 9   | Thinking, Fast and Slow      | Daniel Kahneman                 | Nonfiction  | Psychology                   | Yet to buy  | 499   |
 | 10  | The Long Tail                | Chris Anderson                  | Nonfiction  | Economics                    | Yet to buy  | 288   |
 
-Quotes from [[Fictional]] books
+Quotes from [[fictionalb]] books
 
 Back to [[reading]]
 
