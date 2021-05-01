@@ -16,6 +16,7 @@
 | 10  | The Long Tail                                    | Chris Anderson                  | Economics                    | Yet to buy  | 288   |                                                             | Guy Spier's book        |
 | 11  | The Joys of Compounding                          | Gautam Baid                     | Economics                    | Yet to buy  | 432   |                                                             | Fintwit Community       |
 | 12  | Misbehaving: The Making of Behavioural Economics | Richard H Thaler                | Behavioural Economics        | Yet to buy  | 432   |                                                             | Dr Sanjoy Bhattacharyya |
+| 13  | The Economics of Small Things                    | Sudipta Sarangi                 | Everyday Economics           | Yet to buy  | 296   |                                                             | Naanayam Vikatan        |
 
 Quotes from [[fictional]] books
 
