@@ -1,27 +1,27 @@
 # Algorithm - basics
 
-These are list of Algorithms.
+These are list of Algorithms. [Refer dev.to article](https://dev.to/iuliagroza/complete-introduction-to-the-30-most-essential-data-structures-algorithms-43kd?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
 
 1. Sorting Algorithm
-    - Bubble sort
-    - Merge sort
-    - Quick sort
-    - Head sort
-    - Radix sort
-    - Counting sort
+   - Bubble sort
+   - Merge sort
+   - Quick sort
+   - Head sort
+   - Radix sort
+   - Counting sort
 2. Search Algorithm
-    - Linear search
-    - Binary search
-    - Breath first search
+   - Linear search
+   - Binary search
+   - Breath first search
 3. Dynamic Programming
-    - 0–1 Knapsack Problem
-    - Longest Common Subsequence
-    - Longest Increasing Subsequence
+   - 0–1 Knapsack Problem
+   - Longest Common Subsequence
+   - Longest Increasing Subsequence
 4. Convex Hull
 
 5. Graph traversal
-    - Breadth-First Search
-    -  Depth-First Search
+   - Breadth-First Search
+   - Depth-First Search
 6. Floyd-Warshall / Roy-Floyd Algorithm
 7. Dijkstra's Algorithm
 8. Bellman-Ford Algorithm
@@ -32,7 +32,6 @@ These are list of Algorithms.
 11. Divide & Conquer
 
 12. Recursion Algorithm
-
 
 Back to [[career]]
 
