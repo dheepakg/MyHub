@@ -3,6 +3,7 @@
 - [[DataScience]]
 - [[machine]] Learning
 - Data [[visualization]]
+- Lean [[Algorithm_basics]]
 
 Back to [[index]]
 
